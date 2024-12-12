@@ -10,6 +10,7 @@
     transform: translate(-50%,-50%);
     position: absolute;
     border: 1pt solid black;
+   
 
 
 }
@@ -23,13 +24,16 @@ h2{
     color: white;
     background-color:#cd5c5c ;
     font-family: cursive;
+    display: inline-block;
+    
 }
 .input1{
     border: 0cap;
     font-size: 10px;
+    width: 100%;
 }
 .submit{
     background-color: #ffd700;
     text-align: center;
-    width: 99%;
+    width: 100%;
 }
